@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# SQLite database file
+*.db
+
+# Flask instance folder
+instance/
+
+# Environment variables file
+.env
+
+# Pytest cache
+.pytest_cache/
+
+# Migrations folder if you don't want to commit migrations
+migrations/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
